@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Nearby Places</string>
+    <string name="title">Nearby Places</string>
+    <string name="prompt_username">USERNAME</string>
+    <string name="prompt_email">Email ID</string>
+    <string name="prompt_pass">PASSWORD</string>
+    <string name="prompt_birthdate">BirthDate</string>
+    <string name="action_sign_in">Sign In</string>
+    <string name="action_sign_up">Sign Up</string>
+
+    <string name="newUser">Not a Member yet?  <font color='black'> Sign Up </font> </string>
+    <string name="already_user">Already have Account? <font color='black'> Sign In </font> </string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>

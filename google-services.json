@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "162920996485",
+    "firebase_url": "https://nearbypro-bc3c3.firebaseio.com",
+    "project_id": "nearbypro-bc3c3",
+    "storage_bucket": "nearbypro-bc3c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162920996485:android:740c1a73b1f27418",
+        "android_client_info": {
+          "package_name": "com.example.abd_elrahman.nerby_places"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162920996485-jbi72db6mjgvl51vfh7sbmd4q2q1q4l1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqisSUsG_hl6YoBCjpSbuANMaAeRnIRjc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
